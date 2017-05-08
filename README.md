@@ -1,6 +1,6 @@
 # _Carson Haskell_
 
-#### _Resort Website for investor, Epicodus Project, 05.08.2017_
+#### _Resort Website for an investor. An Epicodus Project, 05.08.2017_
 
 #### By _**Carson Haskell**_
 
